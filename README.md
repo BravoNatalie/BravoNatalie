@@ -4,7 +4,7 @@ I just graduated in Computer Science and I'm working on some side projects, lear
 
 [![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
 [![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@ice.ufjf.br)
-[![Spotify](https://img.shields.io/badge/-@Natalie%20Bravo-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
+[![Spotify](https://img.shields.io/badge/-@Natalie%20Bravo-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
 
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
