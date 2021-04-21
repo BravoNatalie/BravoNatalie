@@ -47,4 +47,4 @@ I just graduated in Computer Science and I'm working on some side projects, lear
 
 
 [LEVTY]: https://levty.com/en
-[resume]: colocarlinkpdf
+[resume]: Profile-PtBR.pdf
