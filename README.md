@@ -42,7 +42,7 @@ I just graduated in Computer Science and I'm working on some side projects, lear
 
 
 ![BravoNatalie's GitHub Stats](https://github-readme-stats-codestackr.vercel.app/api?username=BravoNatalie&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&hide=TeXt&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&hide=TeXt&hide_border=true&layout=compact&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
