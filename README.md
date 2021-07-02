@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Natalie
 
-I just graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
+I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
 [![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
 [![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@ice.ufjf.br)
@@ -11,10 +11,10 @@ I just graduated in Computer Science and I'm working on some side projects, lear
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on [LEVTY].
-- 🧐 Learning about serverless architectures, Solidity, and a bit of data science.
-- 🤔 I’m looking for help with development in Web 3.0
-- 💬 Ping me about react, node, javascript, and crypto stuff.
+- 🔭 I’m currently working at [Bitshopp].
+- 🧐 Always learning about blockchain, smart contracts, and web development.
+- 🤔 I’m looking for help with development in Web 3.0.
+- 💬 Ping me about react, node, javascript, and blockchain stuff.
 - 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
 
@@ -47,5 +47,5 @@ I just graduated in Computer Science and I'm working on some side projects, lear
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[LEVTY]: https://levty.com/en
+[Bitshopp]: https://bitshopp.com/
 [resume]: resume.pdf
