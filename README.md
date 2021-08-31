@@ -52,4 +52,4 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [Bitshopp]: https://bitshopp.com/
-[resume]: resume.pdf
+[resume]: https://drive.google.com/file/d/1K2Pk0oOkMxz2PasPChGbSTiJx1mGWpdd/view?usp=sharing
