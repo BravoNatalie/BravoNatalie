@@ -3,7 +3,7 @@
 I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
 [![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
-[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@ice.ufjf.br)
+[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@outlook.com)
 [![Spotify](https://img.shields.io/badge/-@Natalie%20Bravo-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
 
 
@@ -13,7 +13,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 - 🔭 I’m currently working at [Bitshopp].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
-- 🤔 I’m looking for help with development in Web 3.0.
+- 🤔 I’m looking for help with DeFi development.
 - 💬 Ping me about react, node, javascript, and blockchain stuff.
 - 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
@@ -52,4 +52,4 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [Bitshopp]: https://bitshopp.com/
-[resume]: https://drive.google.com/file/d/1K2Pk0oOkMxz2PasPChGbSTiJx1mGWpdd/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1YUXSu5GL8hpwGsPzpQ8eInOoW02ryASg/view?usp=sharing
