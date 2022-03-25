@@ -11,10 +11,10 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [Bitshopp].
+- 🔭 I’m currently working at [AdaptiveCode].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with DeFi development.
-- 💬 Ping me about react, node, javascript, and blockchain stuff.
+- 💬 Ping me about blockchain stuff.
 - 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
 
@@ -51,5 +51,5 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[Bitshopp]: https://bitshopp.com/
+[AdaptiveCode]: https://www.adaptivecode.io/
 [resume]: https://drive.google.com/file/d/1YUXSu5GL8hpwGsPzpQ8eInOoW02ryASg/view?usp=sharing
