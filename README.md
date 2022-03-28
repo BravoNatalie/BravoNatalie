@@ -52,4 +52,4 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [AdaptiveCode]: https://www.adaptivecode.io/
-[resume]: https://drive.google.com/file/d/1YUXSu5GL8hpwGsPzpQ8eInOoW02ryASg/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1K2Pk0oOkMxz2PasPChGbSTiJx1mGWpdd/view?usp=sharing
