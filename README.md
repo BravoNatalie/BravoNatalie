@@ -13,7 +13,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 - 🔭 I’m currently working at [AdaptiveCode].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
-- 🤔 I’m looking for help with DeFi development.
+- 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
 - 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
