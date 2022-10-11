@@ -11,7 +11,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [AdaptiveCode].
+- 🔭 I’m currently working at [Holograph].
 - 🧐 Always learning about blockchain, smart contracts, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about blockchain stuff.
@@ -51,5 +51,5 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[AdaptiveCode]: https://www.adaptivecode.io/
+[Holograph]: https://www.holograph.xyz/
 [resume]: https://drive.google.com/file/d/14mGpSchJhiW1lik-0KnL-ZIusVADLzN9/view?usp=sharing
