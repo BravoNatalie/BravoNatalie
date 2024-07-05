@@ -11,7 +11,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [Holograph].
+- 🔭 I’m currently available to work.
 - 🧐 Always learning about blockchain, smart contracts, and software development.
 - 🤔 I’m looking for help with Rust.
 - 💬 Ping me about blockchain stuff.
@@ -55,4 +55,4 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [Holograph]: https://www.holograph.xyz/
-[resume]: https://drive.google.com/file/d/1H7zEKT24aSccO3Cphmn9Clr0e1f1HpMU/view
+[resume]: https://drive.google.com/file/d/1fA_OI138yCql_FDgiHWz29E2xujoudxF/view?usp=sharing
