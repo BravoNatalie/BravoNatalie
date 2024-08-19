@@ -53,4 +53,4 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 [Holograph]: https://www.holograph.xyz/
-[resume]: https://drive.google.com/file/d/1fA_OI138yCql_FDgiHWz29E2xujoudxF/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1uQok_g1qdIca6_jSByYRGAB3ZSW9fW5K/view?usp=drive_link
