@@ -16,7 +16,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 - 🤔 I’m looking for help with developing distributed systems in Rust and GO.
 - 💬 Ping me about blockchain stuff.
 - 📙 Check out my [resume].
-- 🎉 Fun Fact: I like cyberpunk and Lo-fi。
+- 🎉 Fun Fact: I like cyberpunk and practice Muay Thai.
 
 
 <h2>🚀 Some Tools I Use</h2>
@@ -47,7 +47,8 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 
 ![BravoNatalie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bravonatalie&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravonatalie&hide=javascript,python,html,css,jupyter%20notebook&langs_count=4&hide_border=true&layout=compact&theme=radical)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
