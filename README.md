@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Natalie
 
-I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
+I'm a Software Engineer with a Computer Science background, experienced in Blockchain and Web3, with a strong interest in distributed systems.
 
 [![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
 [![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@outlook.com)
@@ -11,7 +11,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently available to work.
+- 🔭 I’m working at [Storacha](https://storacha.network/).
 - 🧐 Always learning about blockchain, smart contracts, and software development.
 - 🤔 I’m looking for help with developing distributed systems in Rust and GO.
 - 💬 Ping me about blockchain stuff.
@@ -39,8 +39,6 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 
 </p>
