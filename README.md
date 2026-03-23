@@ -1,16 +1,18 @@
 ## Hi 👋, I'm Natalie
 
-I'm a Software Engineer with a Computer Science background, experienced in Blockchain and Web3, with a strong interest in distributed systems.
-
+Software engineer focused on blockchain and distributed systems.  
+Currently building decentralized storage at Storacha.
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m working at [Storacha](https://storacha.network/).
-- 🧐 Always learning about blockchain, smart contracts, and software development.
-- 🤔 I’m looking for help with developing distributed systems in Rust and GO.
-- 💬 Ping me about blockchain stuff.
+- 🔭 Working on decentralized storage at [Storacha](https://storacha.network/)
+- ⚙️ Experience with IPFS, IPLD, DAGs, UCAN, and distributed architectures
+- 🧠 Research background with publications in Springer journals
+- 🛠 Worked on systems across billing pipelines, encryption layers, and developer tooling
+- 🌱 Currently deepening my knowledge in Go and distributed systems design
+- 💬 Happy to chat about decentralized technologies, AI, and system design
 - 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and practice Muay Thai.
 
@@ -23,7 +25,6 @@ I'm a Software Engineer with a Computer Science background, experienced in Block
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 <img alt="ethers.js" src="https://img.shields.io/badge/-ethers.js-3498DB?style=flat-square&logo=ethereum&logoColor=white" />
@@ -47,5 +48,4 @@ I'm a Software Engineer with a Computer Science background, experienced in Block
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
 
 
-[Holograph]: https://www.holograph.xyz/
-[resume]: https://drive.google.com/file/d/1uQok_g1qdIca6_jSByYRGAB3ZSW9fW5K/view?usp=drive_link
+[resume]: https://drive.google.com/file/d/1HoqVrVyJm-K5xCXfu0fwrPRp7JUgYOW2/view?usp=sharing
