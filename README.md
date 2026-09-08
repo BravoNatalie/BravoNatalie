@@ -1,13 +1,13 @@
 ## Hi 👋, I'm Natalie
 
 Software engineer focused on blockchain and distributed systems.  
-Currently building decentralized storage at Storacha.
+Currently building for [Filecoin Onchain Cloud](https://filecoin.cloud/).
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 Working on decentralized storage at [Storacha](https://storacha.network/)
+- 🔭 Working on decentralized storage
 - ⚙️ Experience with IPFS, IPLD, DAGs, UCAN, and distributed architectures
 - 🧠 Research background with publications in Springer journals
 - 🛠 Worked on systems across billing pipelines, encryption layers, and developer tooling
@@ -36,13 +36,10 @@ Currently building decentralized storage at Storacha.
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F16822?style=flat-square&logo=cloudflare&logoColor=white" />
 
 
 </p>
-
-
-![BravoNatalie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bravonatalie&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bravonatalie&hide=javascript,python,html,css,jupyter%20notebook&langs_count=4&hide_border=true&layout=compact&theme=radical)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BravoNatalie.BravoNatalie)
